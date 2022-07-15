@@ -1,1 +1,1 @@
-web: npm install & node backend/server.js
+web: npm install & node backend/server.js & react-scripts start
